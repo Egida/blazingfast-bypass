@@ -9,7 +9,7 @@ Don't pay for this terrible protection, lmfao.
 Blazingfast was stupid enough to make an analytics bot to track their users, we just pretend to be one.
 
 > ```py
-> url_example = "http://example.io?id_user=4"
+> url_example = "http://example.io?id_client=4"
 > ```
 
 ##### Please do not steal this or use it for a webstresser.
